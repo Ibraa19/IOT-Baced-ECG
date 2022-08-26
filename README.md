@@ -1,4 +1,4 @@
-# IOT-Baced-ECG
+# IOT-Based-ECG
 a cheap ecg device that is enhanced using the IOT technology
 
 The goal of this project is to creat a cheap ecg device that could read (Lead I, Lead II ,and Lead III) from the patient.
